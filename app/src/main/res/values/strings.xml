@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">composecommerce</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_otp_verification">OtpVerificationActivity</string>
+    <string name="title_activity_signup">SignupActivity</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="title_activity_cart">CartActivity</string>
+</resources>
